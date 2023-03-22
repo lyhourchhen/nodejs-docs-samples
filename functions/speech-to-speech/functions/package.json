@@ -42,7 +42,7 @@
     "firebase-functions": "^3.0.0"
   },
   "devDependencies": {
-    "@google-cloud/functions-framework": "^1.1.1",
+    "@google-cloud/functions-framework": "^3.0.0",
     "child-process-promise": "^2.2.1",
     "mocha": "^8.0.0",
     "request": "^2.88.0",

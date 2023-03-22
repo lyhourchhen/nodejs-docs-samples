@@ -23,7 +23,7 @@
     "supertest": "^4.0.2"
   },
   "devDependencies": {
-    "@google-cloud/functions-framework": "^1.1.1",
+    "@google-cloud/functions-framework": "^3.0.0",
     "@google-cloud/pubsub": "^2.0.0",
     "@google-cloud/storage": "^5.0.0",
     "child-process-promise": "^2.2.1",
